@@ -33,21 +33,6 @@
 - [🎯 Pourquoi Cette Application Est Différente](#-pourquoi-cette-application-est-différente)
 - [🚀 Démonstration en Direct](#-démonstration-en-direct)
 - [🧩 Anatomie du Projet](#-anatomie-du-projet)
-- [🔬 Explication Technique Détaillée](#-explication-technique-détaillée)
-- [🎨 Guide de Design](#-guide-de-design)
-- [📱 Expérience Multi-Appareils](#-expérience-multi-appareils)
-- [♿ Accessibilité et Inclusion](#-accessibilité-et-inclusion)
-- [📊 Performances](#-performances)
-- [⚙️ Installation et Lancement](#️-installation-et-lancement)
-- [🧪 Validation et Gestion des Erreurs](#-validation-et-gestion-des-erreurs)
-- [🎬 Animations et Micro-Interactions](#-animations-et-micro-interactions)
-- [🛠️ Personnalisation Avancée](#️-personnalisation-avancée)
-- [🌍 Navigateurs Supportés](#-navigateurs-supportés)
-- [🔮 Feuille de Route (Roadmap)](#-feuille-de-route-roadmap)
-- [🤝 Contribuer au Projet](#-contribuer-au-projet)
-- [📜 Licence](#-licence)
-- [🙏 Remerciements](#-remerciements)
-- [📬 Contact](#-contact)
 
 ---
 
