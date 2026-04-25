@@ -1,4 +1,4 @@
-<p <img src="icone.jpg" alt="icone d'écran de l'application" width="130" /> />
+<p <img src="icone.jpg" alt="icone d'écran de l'application" width="130" />
 </p>
 
 <h1 align="center">✦ Calculateur d'Âge ✦</h1>
