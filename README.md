@@ -17,7 +17,7 @@
   ![Version](https://img.shields.io/badge/version-2.0.0-ff69b4?style=for-the-badge)
   ![PRs Bienvenues](https://img.shields.io/badge/PRs-bienvenues!-brightgreen?style=for-the-badge)
   <br><br>
-  <img src="img.jpg" alt="Capture d'écran de l'application" width="750" />
+  <img src="Img.jpg" alt="Capture d'écran de l'application" width="750" />
   
 </div>
 
