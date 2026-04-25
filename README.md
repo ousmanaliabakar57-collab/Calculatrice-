@@ -1,4 +1,4 @@
-<p align="icone.jpg" alt="Icône Calculateur d'Âge" width="130" />
+<p align="icone.png" alt="Icône Calculateur d'Âge" width="130" />
 </p>
 
 <h1 align="center">✦ Calculateur d'Âge ✦</h1>
