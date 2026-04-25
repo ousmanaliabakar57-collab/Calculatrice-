@@ -1,4 +1,5 @@
-
+<p align="icone.jpg" alt="Icône Calculateur d'Âge" width="130" />
+</p>
 
 <h1 align="center">✦ Calculateur d'Âge ✦</h1>
 <h3 align="center">L'Application Qui Révèle Votre Âge Exact — Années, Mois, Jours</h3>
