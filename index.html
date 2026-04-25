@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Age Calculator App</title>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,700;0,800;1,800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<main class="card" role="main">
+
+
+  <div class="inputs-row" id="inputs-row">
+    <div class="field" id="field-day">
+      <label for="input-day">Day</label>
+      <input type="number" id="input-day" placeholder="DD" min="1" max="31" aria-label="Day of birth">
+      <span class="error-msg" id="err-day" aria-live="polite"></span>
+    </div>
+    <div class="field" id="field-month">
+      <label for="input-month">Month</label>
+      <input type="number" id="input-month" placeholder="MM" min="1" max="12" aria-label="Month of birth">
+      <span class="error-msg" id="err-month" aria-live="polite"></span>
+    </div>
+    <div class="field" id="field-year">
+      <label for="input-year">Year</label>
+      <input type="number" id="input-year" placeholder="YYYY" min="1" max="9999" aria-label="Year of birth">
+      <span class="error-msg" id="err-year" aria-live="polite"></span>
+    </div>
+  </div>
+
+
+  <div class="divider-row">
+    <div class="divider-line"></div>
+    <button class="btn" id="calculate-btn" aria-label="Calculate age">
+      
+      <svg viewBox="0 0 46 44" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <g fill="none" stroke="#fff" stroke-width="2">
+          <path d="M1 22.019C8.333 21.686 23 25.616 23 43.031" stroke-linecap="round" stroke-linejoin="round"/>
+          <path d="M45 22.019C37.667 21.686 23 25.616 23 43.031" stroke-linecap="round" stroke-linejoin="round"/>
+          <path d="M23 43V1" stroke-linecap="round" stroke-linejoin="round"/>
+        </g>
+      </svg>
+    </button>
+    <div class="divider-line"></div>
+  </div>
+
+
+  <div class="results" aria-live="polite" aria-atomic="true">
+    <div class="result-line">
+      <span class="number" id="res-years">--</span>
+      <span class="label-word">years</span>
+    </div>
+    <div class="result-line">
+      <span class="number" id="res-months">--</span>
+      <span class="label-word">months</span>
+    </div>
+    <div class="result-line">
+      <span class="number" id="res-days">--</span>
+      <span class="label-word">days</span>
+    </div>
+  </div>
+
+</main>
+<script src="main.js"></script>
+</body>
+</html>
