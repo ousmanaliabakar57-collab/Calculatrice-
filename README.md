@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icone1.jpg" alt="..." width="130" />
+  <img src="icone.jpg" alt="..." width="130" />
 </p>
 
 <h1 align="center">✦ Calculateur d'Âge ✦</h1>
